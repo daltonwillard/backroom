@@ -866,7 +866,7 @@ screen = 2
 page = 4
 [board14]
 screen = 2
-page = 9
+page = 1
 [screen0]
 title = Walls
 window = no
