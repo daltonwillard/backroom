@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1647959137" name="DNE-1" model="SlimPAR 64 RGBA (8CH)"/>
+    <Fixture id="1697617859" name="SlimPAR 64 RGBA (8CH) #21 #2" model="SlimPAR 64 RGBA (8CH)"/>
+    <Fixture id="1697617860" name="SlimPAR 64 RGBA (8CH) #21 #3" model="SlimPAR 64 RGBA (8CH)"/>
+    <Fixture id="1697617861" name="SlimPAR 64 RGBA (8CH) #21 #4" model="SlimPAR 64 RGBA (8CH)"/>
+    <Fixture id="1697617862" name="SlimPAR 64 RGBA (8CH) #21 #5" model="SlimPAR 64 RGBA (8CH)"/>
+    <Fixture id="1647959566" name="SlimPAR 64 RGBA (8CH) #2" model="SlimPAR 64 RGBA (8CH)"/>
+    <Fixture id="1647959567" name="SlimPAR 64 RGBA (8CH) #3" model="SlimPAR 64 RGBA (8CH)"/>
+    <Fixture id="1647959568" name="SlimPAR 64 RGBA (8CH) #4" model="SlimPAR 64 RGBA (8CH)"/>
+    <Fixture id="1647959569" name="SlimPAR 64 RGBA (8CH) #5" model="SlimPAR 64 RGBA (8CH)"/>
+    <Fixture id="1647959570" name="SlimPAR 64 RGBA (8CH) #6" model="SlimPAR 64 RGBA (8CH)"/>
+    <Fixture id="1647959571" name="SlimPAR 64 RGBA (8CH) #7" model="SlimPAR 64 RGBA (8CH)"/>
+    <Fixture id="1647959572" name="SlimPAR 64 RGBA (8CH) #8" model="SlimPAR 64 RGBA (8CH)"/>
+    <Fixture id="1647959573" name="DNE-3" model="SlimPAR 64 RGBA (8CH)"/>
+    <Fixture id="1647959574" name="SlimPAR 64 RGBA (8CH) #10" model="SlimPAR 64 RGBA (8CH)"/>
+    <Fixture id="1647959575" name="DNE-4" model="SlimPAR 64 RGBA (8CH)"/>
+    <Fixture id="1647959576" name="SlimPAR 64 RGBA (8CH) #12" model="SlimPAR 64 RGBA (8CH)"/>
+    <Fixture id="1647959577" name="SlimPAR 64 RGBA (8CH) #13" model="SlimPAR 64 RGBA (8CH)"/>
+    <Fixture id="1647959578" name="SlimPAR 64 RGBA (8CH) #14" model="SlimPAR 64 RGBA (8CH)"/>
+    <Fixture id="1647959579" name="DNE-2" model="SlimPAR 64 RGBA (8CH)"/>
+    <Fixture id="1647959580" name="SlimPAR 64 RGBA (8CH) #16" model="SlimPAR 64 RGBA (8CH)"/>
+    <Fixture id="1647959581" name="SlimPAR 64 RGBA (8CH) #17" model="SlimPAR 64 RGBA (8CH)"/>
+    <Fixture id="1647959582" name="DoubleAddressedPar" model="SlimPAR 64 RGBA (8CH)"/>
+    <Fixture id="1647959583" name="SlimPAR 64 RGBA (8CH) #19" model="SlimPAR 64 RGBA (8CH)"/>
+    <Fixture id="1647959584" name="SlimPAR 64 RGBA (8CH) #20" model="SlimPAR 64 RGBA (8CH)"/>
+    <Fixture id="1647959585" name="SlimPAR 64 RGBA (8CH) #21" model="SlimPAR 64 RGBA (8CH)"/>
+    <Fixture id="1616590977" name="Bar - Left Fan" model="MegaBar50rgb(7ch)"/>
+    <Fixture id="1616590978" name="Bar - Right Fan" model="MegaBar50rgb(7ch)"/>
+  </Fixtures>
+  <Steps>
+    <Step length="500">
+      <Fixture id="1647959137">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="53" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+        <Channel index="3" name="amber" value="255" fade="1"/>
+        <Channel index="4" name="color_macro" value="0" fade="1"/>
+        <Channel index="5" name="shutter" value="7" fade="1"/>
+        <Channel index="6" name="mode" value="15" fade="1"/>
+        <Channel index="7" name="dimmer" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1697617859">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="53" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+        <Channel index="3" name="amber" value="255" fade="1"/>
+        <Channel index="4" name="color_macro" value="0" fade="1"/>
+        <Channel index="5" name="shutter" value="7" fade="1"/>
+        <Channel index="6" name="mode" value="15" fade="1"/>
+        <Channel index="7" name="dimmer" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1697617860">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="53" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+        <Channel index="3" name="amber" value="255" fade="1"/>
+        <Channel index="4" name="color_macro" value="0" fade="1"/>
+        <Channel index="5" name="shutter" value="7" fade="1"/>
+        <Channel index="6" name="mode" value="15" fade="1"/>
+        <Channel index="7" name="dimmer" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1697617861">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="53" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+        <Channel index="3" name="amber" value="255" fade="1"/>
+        <Channel index="4" name="color_macro" value="0" fade="1"/>
+        <Channel index="5" name="shutter" value="7" fade="1"/>
+        <Channel index="6" name="mode" value="15" fade="1"/>
+        <Channel index="7" name="dimmer" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1697617862">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="53" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+        <Channel index="3" name="amber" value="255" fade="1"/>
+        <Channel index="4" name="color_macro" value="0" fade="1"/>
+        <Channel index="5" name="shutter" value="7" fade="1"/>
+        <Channel index="6" name="mode" value="15" fade="1"/>
+        <Channel index="7" name="dimmer" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1647959566">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="53" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+        <Channel index="3" name="amber" value="255" fade="1"/>
+        <Channel index="4" name="color_macro" value="0" fade="1"/>
+        <Channel index="5" name="shutter" value="7" fade="1"/>
+        <Channel index="6" name="mode" value="15" fade="1"/>
+        <Channel index="7" name="dimmer" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1647959567">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="53" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+        <Channel index="3" name="amber" value="255" fade="1"/>
+        <Channel index="4" name="color_macro" value="0" fade="1"/>
+        <Channel index="5" name="shutter" value="7" fade="1"/>
+        <Channel index="6" name="mode" value="15" fade="1"/>
+        <Channel index="7" name="dimmer" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1647959568">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="53" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+        <Channel index="3" name="amber" value="255" fade="1"/>
+        <Channel index="4" name="color_macro" value="0" fade="1"/>
+        <Channel index="5" name="shutter" value="7" fade="1"/>
+        <Channel index="6" name="mode" value="15" fade="1"/>
+        <Channel index="7" name="dimmer" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1647959569">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="53" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+        <Channel index="3" name="amber" value="255" fade="1"/>
+        <Channel index="4" name="color_macro" value="0" fade="1"/>
+        <Channel index="5" name="shutter" value="7" fade="1"/>
+        <Channel index="6" name="mode" value="15" fade="1"/>
+        <Channel index="7" name="dimmer" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1647959570">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="53" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+        <Channel index="3" name="amber" value="255" fade="1"/>
+        <Channel index="4" name="color_macro" value="0" fade="1"/>
+        <Channel index="5" name="shutter" value="7" fade="1"/>
+        <Channel index="6" name="mode" value="15" fade="1"/>
+        <Channel index="7" name="dimmer" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1647959571">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="53" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+        <Channel index="3" name="amber" value="255" fade="1"/>
+        <Channel index="4" name="color_macro" value="0" fade="1"/>
+        <Channel index="5" name="shutter" value="7" fade="1"/>
+        <Channel index="6" name="mode" value="15" fade="1"/>
+        <Channel index="7" name="dimmer" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1647959572">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="53" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+        <Channel index="3" name="amber" value="255" fade="1"/>
+        <Channel index="4" name="color_macro" value="0" fade="1"/>
+        <Channel index="5" name="shutter" value="7" fade="1"/>
+        <Channel index="6" name="mode" value="15" fade="1"/>
+        <Channel index="7" name="dimmer" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1647959573">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="53" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+        <Channel index="3" name="amber" value="255" fade="1"/>
+        <Channel index="4" name="color_macro" value="0" fade="1"/>
+        <Channel index="5" name="shutter" value="7" fade="1"/>
+        <Channel index="6" name="mode" value="15" fade="1"/>
+        <Channel index="7" name="dimmer" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1647959574">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="53" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+        <Channel index="3" name="amber" value="255" fade="1"/>
+        <Channel index="4" name="color_macro" value="0" fade="1"/>
+        <Channel index="5" name="shutter" value="7" fade="1"/>
+        <Channel index="6" name="mode" value="15" fade="1"/>
+        <Channel index="7" name="dimmer" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1647959575">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="53" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+        <Channel index="3" name="amber" value="255" fade="1"/>
+        <Channel index="4" name="color_macro" value="0" fade="1"/>
+        <Channel index="5" name="shutter" value="7" fade="1"/>
+        <Channel index="6" name="mode" value="15" fade="1"/>
+        <Channel index="7" name="dimmer" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1647959576">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="53" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+        <Channel index="3" name="amber" value="255" fade="1"/>
+        <Channel index="4" name="color_macro" value="0" fade="1"/>
+        <Channel index="5" name="shutter" value="7" fade="1"/>
+        <Channel index="6" name="mode" value="15" fade="1"/>
+        <Channel index="7" name="dimmer" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1647959577">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="53" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+        <Channel index="3" name="amber" value="255" fade="1"/>
+        <Channel index="4" name="color_macro" value="0" fade="1"/>
+        <Channel index="5" name="shutter" value="7" fade="1"/>
+        <Channel index="6" name="mode" value="15" fade="1"/>
+        <Channel index="7" name="dimmer" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1647959578">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="53" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+        <Channel index="3" name="amber" value="255" fade="1"/>
+        <Channel index="4" name="color_macro" value="0" fade="1"/>
+        <Channel index="5" name="shutter" value="7" fade="1"/>
+        <Channel index="6" name="mode" value="15" fade="1"/>
+        <Channel index="7" name="dimmer" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1647959579">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="53" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+        <Channel index="3" name="amber" value="255" fade="1"/>
+        <Channel index="4" name="color_macro" value="0" fade="1"/>
+        <Channel index="5" name="shutter" value="7" fade="1"/>
+        <Channel index="6" name="mode" value="15" fade="1"/>
+        <Channel index="7" name="dimmer" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1647959580">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="53" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+        <Channel index="3" name="amber" value="255" fade="1"/>
+        <Channel index="4" name="color_macro" value="0" fade="1"/>
+        <Channel index="5" name="shutter" value="7" fade="1"/>
+        <Channel index="6" name="mode" value="15" fade="1"/>
+        <Channel index="7" name="dimmer" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1647959581">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="53" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+        <Channel index="3" name="amber" value="255" fade="1"/>
+        <Channel index="4" name="color_macro" value="0" fade="1"/>
+        <Channel index="5" name="shutter" value="7" fade="1"/>
+        <Channel index="6" name="mode" value="15" fade="1"/>
+        <Channel index="7" name="dimmer" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1647959582">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="53" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+        <Channel index="3" name="amber" value="255" fade="1"/>
+        <Channel index="4" name="color_macro" value="0" fade="1"/>
+        <Channel index="5" name="shutter" value="7" fade="1"/>
+        <Channel index="6" name="mode" value="15" fade="1"/>
+        <Channel index="7" name="dimmer" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1647959583">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="53" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+        <Channel index="3" name="amber" value="255" fade="1"/>
+        <Channel index="4" name="color_macro" value="0" fade="1"/>
+        <Channel index="5" name="shutter" value="7" fade="1"/>
+        <Channel index="6" name="mode" value="15" fade="1"/>
+        <Channel index="7" name="dimmer" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1647959584">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="53" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+        <Channel index="3" name="amber" value="255" fade="1"/>
+        <Channel index="4" name="color_macro" value="0" fade="1"/>
+        <Channel index="5" name="shutter" value="7" fade="1"/>
+        <Channel index="6" name="mode" value="15" fade="1"/>
+        <Channel index="7" name="dimmer" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1647959585">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="53" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+        <Channel index="3" name="amber" value="255" fade="1"/>
+        <Channel index="4" name="color_macro" value="0" fade="1"/>
+        <Channel index="5" name="shutter" value="7" fade="1"/>
+        <Channel index="6" name="mode" value="15" fade="1"/>
+        <Channel index="7" name="dimmer" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1616590977">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="53" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1616590978">
+        <Channel index="0" name="red" value="255" fade="1"/>
+        <Channel index="1" name="green" value="53" fade="1"/>
+        <Channel index="2" name="blue" value="0" fade="1"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

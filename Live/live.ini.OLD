@@ -1,0 +1,878 @@
+﻿
+[live]
+manual_bpm = 109
+master_faders = 4
+dmx_on = yes
+fade_time = 134
+auto_bpm_midiclock_device = 0
+auto_bpm_midiclock_divisor = 24
+button_font_size = 12
+fader2_midi_device = 0
+fader2_midi_channel = 1
+fader2_midi_type = 1
+fader2_midi_note = 49
+fader2_midi_control = 0
+fader3_midi_device = 0
+fader3_midi_channel = 1
+fader3_midi_type = 1
+fader3_midi_note = 48
+fader3_midi_control = 0
+fader4_midi_device = 0
+fader4_midi_channel = 1
+fader4_midi_type = 1
+fader4_midi_note = 50
+fader4_midi_control = 0
+fader1_midi_device = 0
+fader1_midi_channel = 1
+fader1_midi_type = 1
+fader1_midi_note = 51
+fader1_midi_control = 0
+[Params]
+ActiveTab = 2
+[master_faders]
+type_fader0 = 0
+caption_fader0 = spot dimmer
+v8_master_fader0 = 1702676068,dimmer|1702680889,dimmer|1702676067,dimmer|1702679854,dimmer|1702680890,dimmer|
+live_mobile_fader0 = 1
+type_fader1 = 0
+caption_fader1 = Wall Dimmer
+v8_master_fader1 = 1647959573,dimmer|1647959577,dimmer|1697617859,dimmer|1647959580,dimmer|1697617862,dimmer|1647959584,dimmer|1647959569,dimmer|1647959572,dimmer|1647959576,dimmer|1697617861,dimmer|1647959583,dimmer|1647959568,dimmer|1647959571,dimmer|1647959575,dimmer|1647959137,dimmer|1647959579,dimmer|1697617860,dimmer|1647959582,dimmer|1647959567,dimmer|1647959570,dimmer|1647959574,dimmer|1647959578,dimmer|1647959581,dimmer|1647959585,dimmer|1647959566,dimmer|
+live_mobile_fader1 = 1
+type_fader2 = 0
+caption_fader2 = Stage Dimmer
+v8_master_fader2 = 1702759808,dimmer|1702757094,dimmer|1702759245,dimmer|1702678810,dimmer|1702681761,dimmer|1702676734,dimmer|1702679854,dimmer|1702680396,dimmer|1702681224,dimmer|
+live_mobile_fader2 = 1
+type_fader3 = 1
+caption_fader3 = SPEED
+v8_master_fader3 = 
+live_mobile_fader3 = 1
+[display]
+speed_info = yes
+trigger_midi = yes
+[page]
+number = 12
+[page1]
+name = ALL SOLID COLOR
+swap = yes
+nb_buttons = 25
+[page1_button1]
+line = 1
+column = 1
+name = all amber.scex
+title = all amber
+masterspeedfader = 0
+[page1_button2]
+line = 2
+column = 1
+name = all blue.scex
+title = all blue
+masterspeedfader = 0
+[page1_button3]
+line = 3
+column = 1
+name = all green.scex
+title = all green
+masterspeedfader = 0
+[page1_button4]
+line = 4
+column = 1
+name = all red.scex
+title = all red
+masterspeedfader = 0
+[page1_button5]
+line = 5
+column = 1
+name = all uv.scex
+title = all uv
+masterspeedfader = 0
+[page1_button6]
+line = 6
+column = 1
+name = all white.scex
+title = all white
+masterspeedfader = 0
+[page1_button7]
+line = 7
+column = 1
+name = all warm white.scex
+title = all warm white
+masterspeedfader = 0
+[page1_button8]
+line = 8
+column = 1
+name = peach.scex
+title = peach
+masterspeedfader = 0
+[page1_button9]
+line = 3
+column = 2
+name = amber_purp.scex
+title = amber_purp
+masterspeedfader = 0
+[page1_button10]
+line = 5
+column = 3
+name = mellon water.scex
+title = mellon water
+masterspeedfader = 0
+[page1_button11]
+line = 7
+column = 3
+name = under the sea.scex
+title = under the sea
+masterspeedfader = 0
+[page1_button12]
+line = 1
+column = 2
+name = uv lair.scex
+title = uv lair
+masterspeedfader = 0
+[page1_button13]
+line = 3
+column = 3
+name = warm 1.scex
+title = warm 1
+masterspeedfader = 0
+[page1_button14]
+line = 2
+column = 2
+name = warm_cool white.scex
+title = warm_cool white
+masterspeedfader = 0
+[page1_button15]
+line = 6
+column = 3
+name = watermellon.scex
+title = watermellon
+masterspeedfader = 0
+[page1_button16]
+line = 8
+column = 3
+name = creamsicle.scex
+title = creamsicle
+masterspeedfader = 0
+preset = yes
+preset_step = 0
+[page1_button17]
+line = 4
+column = 3
+name = sunset.scex
+title = sunset
+masterspeedfader = 0
+[page1_button18]
+line = 2
+column = 3
+name = fire.scex
+title = fire
+masterspeedfader = 0
+fade_in = yes
+fade_out = yes
+[page1_button19]
+line = 9
+column = 1
+name = seafoam.scex
+title = seafoam
+masterspeedfader = 0
+[page1_button20]
+line = 6
+column = 2
+name = pastel warm.scex
+title = pastel warm
+masterspeedfader = 0
+[page1_button21]
+line = 7
+column = 2
+name = cool pastel.scex
+title = cool pastel
+masterspeedfader = 0
+[page1_button22]
+line = 10
+column = 1
+name = mint.scex
+title = mint
+masterspeedfader = 0
+[page1_button23]
+line = 1
+column = 3
+name = OZ TRAILS NEEDS WORK.scex
+title = OZ TRAILS NEEDS WORK
+masterspeedfader = 0
+[page1_button24]
+line = 5
+column = 2
+name = orange blue.scex
+title = orange blue
+masterspeedfader = 0
+[page1_button25]
+line = 4
+column = 2
+name = blue orange.scex
+title = blue orange
+masterspeedfader = 0
+[page2]
+name = color generator\
+swap = yes
+nb_buttons = 20
+[page2_button1]
+line = 1
+column = 1
+name = buncha colors 2.gpj
+title = buncha colors 2
+masterspeedfader = 0
+fade_in = yes
+fade_out = yes
+[page2_button2]
+line = 2
+column = 1
+name = buncha colors.gpj
+title = buncha colors
+masterspeedfader = 0
+fade_in = yes
+fade_out = yes
+[page2_button3]
+line = 3
+column = 1
+name = dim cyanmaggreen.gpj
+title = dim cyanredgreen
+masterspeedfader = 0
+fade_in = yes
+fade_out = yes
+[page2_button4]
+line = 4
+column = 1
+name = Ocean Move.gpj
+title = Ocean Move
+masterspeedfader = 0
+fade_in = yes
+fade_out = yes
+[page2_button5]
+line = 5
+column = 1
+name = pink move.gpj
+title = pink move
+masterspeedfader = 0
+fade_in = yes
+fade_out = yes
+[page2_button6]
+line = 6
+column = 1
+name = slow white red purple.gpj
+title = slow white red purple
+masterspeedfader = 0
+fade_in = yes
+fade_out = yes
+[page2_button7]
+line = 1
+column = 2
+name = slow purple cyan.gpj
+title = slow purple cyan
+masterspeedfader = 0
+fade_in = yes
+fade_out = yes
+[page2_button8]
+line = 2
+column = 2
+name = slow white red.gpj
+title = slow white red
+masterspeedfader = 0
+fade_in = yes
+fade_out = yes
+[page2_button9]
+line = 3
+column = 2
+name = blue breath.gpj
+title = blue breath
+masterspeedfader = 0
+[page2_button10]
+line = 1
+column = 3
+name = fast cyan red.gpj
+title = fast cyan red
+masterspeedfader = 0
+[page2_button11]
+line = 2
+column = 3
+name = sherbert.gpj
+title = sherbert
+masterspeedfader = 0
+[page2_button12]
+line = 3
+column = 3
+name = cotton candy.gpj
+title = cotton candy
+masterspeedfader = 0
+[page2_button13]
+line = 4
+column = 3
+name = 4 sec rainbow.gpj
+title = 4 sec rainbow
+masterspeedfader = 0
+[page2_button14]
+line = 5
+column = 3
+name = 10 sec rgb.gpj
+title = 10 sec rgb
+masterspeedfader = 0
+[page2_button15]
+line = 1
+column = 4
+name = cool blue run.gpj
+title = cool blue run
+masterspeedfader = 0
+[page2_button16]
+line = 2
+column = 4
+name = mint dance.gpj
+title = mint dance
+masterspeedfader = 0
+[page2_button17]
+line = 3
+column = 4
+name = orange pink white.gpj
+title = orange pink white
+masterspeedfader = 0
+[page2_button18]
+line = 4
+column = 4
+name = pink white.gpj
+title = pink white
+masterspeedfader = 0
+[page2_button19]
+line = 1
+column = 5
+name = slow granny smith.gpj
+title = slow granny smith
+masterspeedfader = 0
+[page2_button20]
+line = 2
+column = 5
+name = slow cool.gpj
+title = slow cool
+masterspeedfader = 0
+[page3]
+name = cube color
+nb_buttons = 3
+[page3_button1]
+line = 1
+column = 1
+name = cool white cube.scex
+title = cool white cube
+masterspeedfader = 0
+[page3_button2]
+line = 2
+column = 1
+name = warm white cube.scex
+title = warm white cube
+masterspeedfader = 0
+[page3_button3]
+line = 3
+column = 1
+name = bright white cube.scex
+title = bright white cube
+masterspeedfader = 0
+[page4]
+name = cubes effects
+swap = yes
+nb_buttons = 4
+[page4_button1]
+line = 1
+column = 2
+name = stage/cube_random_color_pulse.scex
+title = cube_random_color_pulse
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 1
+trigger_midi_type = 0
+trigger_midi_note = 41
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 4
+trigger_midiout_type = 0
+trigger_midiout_note = 41
+trigger_midiout_data = 5
+trigger_midiout_data_off = 15
+[page4_button2]
+line = 1
+column = 1
+name = stage generator effects/dim up and down.gpj
+title = Dimmer Chase
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 1
+trigger_midi_type = 0
+trigger_midi_note = 40
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 4
+trigger_midiout_type = 0
+trigger_midiout_note = 40
+trigger_midiout_data = 5
+trigger_midiout_data_off = 15
+[page4_button3]
+line = 1
+column = 3
+name = stage/cube_harsh_st4robe.scex
+title = cube_harsh_st4robe
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 1
+trigger_midi_type = 0
+trigger_midi_note = 42
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 5
+trigger_midiout_type = 0
+trigger_midiout_note = 42
+trigger_midiout_data = 5
+trigger_midiout_data_off = 15
+[page4_button4]
+line = 1
+column = 4
+name = stage/cube biggest strobe.scex
+title = cube biggest strobe
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 1
+trigger_midi_type = 0
+trigger_midi_note = 43
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 5
+trigger_midiout_type = 0
+trigger_midiout_note = 43
+trigger_midiout_data = 5
+trigger_midiout_data_off = 15
+[page5]
+name = FX
+nb_buttons = 4
+[page5_button1]
+line = 1
+column = 1
+name = sparkle.gpj
+title = sparkle
+masterspeedfader = 0
+fade_out = yes
+[page5_button2]
+line = 1
+column = 2
+name = white sine.gpj
+title = white sine
+masterspeedfader = 0
+fade_out = yes
+[page5_button3]
+line = 1
+column = 3
+name = cube blue uv.gpj
+title = cube blue uv
+masterspeedfader = 0
+fade_out = yes
+[page5_button4]
+line = 1
+column = 4
+name = white steps.scex
+title = white steps
+masterspeedfader = 0
+[page6]
+name = Page_1
+nb_buttons = 0
+[page7]
+name = pewpewpew
+swap = yes
+nb_buttons = 4
+[page7_button1]
+line = 1
+column = 1
+name = lasers/laser-audio1.scex
+title = laser-audio1
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 1
+trigger_midi_type = 0
+trigger_midi_note = 61
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 5
+trigger_midiout_type = 0
+trigger_midiout_note = 61
+trigger_midiout_data = 5
+trigger_midiout_data_off = 15
+[page7_button2]
+line = 1
+column = 2
+name = lasers/laser-auto1.scex
+title = laser-auto1
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 1
+trigger_midi_type = 0
+trigger_midi_note = 62
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 5
+trigger_midiout_type = 0
+trigger_midiout_note = 62
+trigger_midiout_data = 5
+trigger_midiout_data_off = 15
+[page7_button3]
+line = 1
+column = 3
+name = lasers/hzLineUpDown.scex
+title = hzLineUpDown
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 1
+trigger_midi_type = 0
+trigger_midi_note = 63
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 5
+trigger_midiout_type = 0
+trigger_midiout_note = 63
+trigger_midiout_data = 5
+trigger_midiout_data_off = 15
+preset = yes
+preset_step = 0
+vertical_slider = yes
+[page7_button4]
+line = 2
+column = 3
+name = lasers/hzSweepSlow.scex
+title = hzSweepSlow
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 1
+trigger_midi_type = 0
+trigger_midi_note = 55
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 5
+trigger_midiout_type = 0
+trigger_midiout_note = 55
+trigger_midiout_data = 5
+trigger_midiout_data_off = 15
+[page8]
+name = rear effects
+nb_buttons = 5
+[page8_button1]
+line = 2
+column = 1
+name = stage/strobe_on.scex
+title = Strobe Light
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 1
+trigger_midi_type = 0
+trigger_midi_note = 16
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 5
+trigger_midiout_type = 0
+trigger_midiout_note = 16
+trigger_midiout_data = 6
+trigger_midiout_data_off = 4
+flash = yes
+[page8_button2]
+line = 1
+column = 1
+name = stage/rear_noise_movement_on.scex
+title = Big Moves
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 1
+trigger_midi_type = 0
+trigger_midi_note = 24
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 5
+trigger_midiout_type = 0
+trigger_midiout_note = 24
+trigger_midiout_data = 6
+trigger_midiout_data_off = 4
+[page8_button3]
+line = 1
+column = 2
+name = stage/rear_left_movement.scex
+title = Little Left Moves
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 1
+trigger_midi_type = 0
+trigger_midi_note = 25
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 5
+trigger_midiout_type = 0
+trigger_midiout_note = 25
+trigger_midiout_data = 6
+trigger_midiout_data_off = 4
+[page8_button4]
+line = 1
+column = 3
+name = stage/rear_crazy_strobes.scex
+title = rear_crazy_strobes
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 1
+trigger_midi_type = 0
+trigger_midi_note = 26
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 5
+trigger_midiout_type = 0
+trigger_midiout_note = 26
+trigger_midiout_data = 6
+trigger_midiout_data_off = 4
+[page8_button5]
+line = 2
+column = 2
+name = stage generator effects/circus_rotation.gpj
+title = circus_rotation
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 1
+trigger_midi_type = 0
+trigger_midi_note = 17
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 5
+trigger_midiout_type = 0
+trigger_midiout_note = 17
+trigger_midiout_data = 6
+trigger_midiout_data_off = 4
+[page9]
+name = spot effects
+swap = yes
+nb_buttons = 3
+[page9_button1]
+line = 1
+column = 1
+name = stage/spot_left.scex
+title = spot_left
+color = 16777215
+masterspeedfader = 0
+[page9_button2]
+line = 1
+column = 2
+name = stage/spot_both.scex
+title = spot_both
+masterspeedfader = 0
+[page9_button3]
+line = 1
+column = 3
+name = stage/spot_right.scex
+title = spot_right
+masterspeedfader = 0
+[page10]
+name = stage
+swap = yes
+nb_buttons = 4
+[page10_button1]
+line = 1
+column = 1
+name = stage/stage_uv.scex
+title = UV Light
+color = 10618084
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 1
+trigger_midi_type = 0
+trigger_midi_note = 48
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 5
+trigger_midiout_type = 0
+trigger_midiout_note = 48
+trigger_midiout_data = 49
+trigger_midiout_data_off = 47
+[page10_button2]
+line = 1
+column = 4
+name = stage/stage_blue.scex
+title = stage_blue
+color = 613621
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 1
+trigger_midi_type = 0
+trigger_midi_note = 51
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 5
+trigger_midiout_type = 0
+trigger_midiout_note = 51
+trigger_midiout_data = 37
+trigger_midiout_data_off = 45
+[page10_button3]
+line = 1
+column = 2
+name = stage/stage_green.scex
+title = stage_green
+color = 1170207
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 1
+trigger_midi_type = 0
+trigger_midi_note = 49
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 5
+trigger_midiout_type = 0
+trigger_midiout_note = 49
+trigger_midiout_data = 14
+trigger_midiout_data_off = 22
+[page10_button4]
+line = 1
+column = 3
+name = stage/stage_red.scex
+title = stage_red
+color = 15484486
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 1
+trigger_midi_type = 0
+trigger_midi_note = 50
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 5
+trigger_midiout_type = 0
+trigger_midiout_note = 50
+trigger_midiout_data = 6
+trigger_midiout_data_off = 4
+[page11]
+name = utility
+nb_buttons = 1
+[page11_button1]
+line = 1
+column = 1
+name = dim on.scex
+title = dim on
+masterspeedfader = 0
+[page12]
+name = wall colors
+swap = yes
+nb_buttons = 4
+[page12_button1]
+line = 1
+column = 4
+name = walls_blue_pulsing.scex
+title = walls_blue_pulsing
+color = 2557180
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 1
+trigger_midi_type = 0
+trigger_midi_note = 59
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 5
+trigger_midiout_type = 0
+trigger_midiout_note = 59
+trigger_midiout_data = 37
+trigger_midiout_data_off = 45
+[page12_button2]
+line = 1
+column = 2
+name = walls_green_pulsing.scex
+title = walls_green_pulsing
+color = 1504011
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 1
+trigger_midi_type = 0
+trigger_midi_note = 57
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 5
+trigger_midiout_type = 0
+trigger_midiout_note = 57
+trigger_midiout_data = 14
+trigger_midiout_data_off = 22
+[page12_button3]
+line = 1
+column = 3
+name = walls_red_pulsing.scex
+title = walls_red_pulsing
+color = 14886149
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 1
+trigger_midi_type = 0
+trigger_midi_note = 58
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 5
+trigger_midiout_type = 0
+trigger_midiout_note = 58
+trigger_midiout_data = 6
+trigger_midiout_data_off = 4
+[page12_button4]
+line = 1
+column = 1
+name = uv lair.scex
+title = uv lair #1
+color = 7683521
+masterspeedfader = 0
+trigger_midi_device = 0
+trigger_midi_channel = 1
+trigger_midi_type = 0
+trigger_midi_note = 56
+trigger_midi_control = 0
+trigger_midiout_device = 0
+trigger_midiout_channel = 5
+trigger_midiout_type = 0
+trigger_midiout_note = 56
+trigger_midiout_data = 49
+trigger_midiout_data_off = 47
+[board]
+number = 14
+[board1]
+screen = 0
+page = 1
+[board2]
+screen = 0
+page = 8
+[board3]
+screen = 0
+page = 5
+[board4]
+screen = 0
+page = 1
+[board5]
+screen = 1
+page = 9
+[board6]
+screen = 1
+page = 8
+[board7]
+screen = 1
+page = 10
+[board8]
+screen = 1
+page = 4
+[board9]
+screen = 2
+page = 12
+[board10]
+screen = 2
+page = 8
+[board11]
+screen = 2
+page = 7
+[board12]
+screen = 2
+page = 10
+[board13]
+screen = 2
+page = 4
+[board14]
+screen = 2
+page = 9
+[screen0]
+title = Walls
+window = no
+[screen1]
+title = Stage
+window = no
+[screen2]
+title = Everything
+window = no

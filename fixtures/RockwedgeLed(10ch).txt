@@ -1,0 +1,35 @@
+﻿ViewType = VIEW_TYPE_COLOR_CHANGER
+ViewPower = VIEW_POWER_LED30W
+ViewAnglePan = 120
+ViewAngleTilt = 90
+ViewAngleBeam = 16
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 16777215
+3DViewShape = 
+2DViewImage = Chauvet/DJ/Wedge Tri.png
+
+Channel = dimmer
+
+Channel = red
+
+Channel = green
+
+Channel = blue
+
+Channel = white
+
+Channel = amber
+
+Channel = uv
+
+Channel = shutter
+ open,0,0 strobe,1,255 
+
+Channel = effect_macro
+ no_function,0,50,notusedinlc Colors Output,51,100 rainbow_color,101,150 rainbow_fade,151,200 Colour Pulse Change,201,250 audio,251,255 
+
+Channel = effect_speed
+

@@ -1,0 +1,34 @@
+﻿ViewType = VIEW_TYPE_STROBE
+ViewPower = VIEW_POWER_LAMP250W
+ViewAnglePan = 120
+ViewAngleTilt = 90
+ViewAngleBeam = 2
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 16777215
+3DViewShape = rectangle(8u)
+2DViewImage = Showtec/Lasers/Galactic RGB600#51325.png
+
+Channel = Mode
+ closed,0,49 Static Pattern,50,99 Dynamic Pattern,100,149 audio,150,199 auto,200,255 
+
+Channel = pattern
+ Circle,0,4 Dot Circle 1,5,9 Dot Circle 2,10,14 Scan Circle,15,19 Horizontal line,20,24 Horizontal dot line,25,29 Vertical line,30,34 Vertical dot line,35,39 45' diagonal,40,44 Dot Diagonal 1,45,49 135' Diagonal,50,54 Dot Diagonal 2,55,59 V Line 1,60,64 V Dot Line 1,65,69 V line 2,70,74 V Dot line 2,75,79 Triangle 1,80,84 Dot triangle 1,85,89 Triangle 2,90,94 Dot Triangle 2,95,99 Square,100,104 Dot Square,105,109 Rectangle 1,110,114 Dot Rectangle 1,115,119 Rectangle 2,120,124 Dot Rectangle 2,125,129 Christcross,130,134 Chiasma Line,135,139 Horizontal Extend Line,140,144 Horizontal Shrink Line,145,149 Horizontal Flex Line,150,154 Horizontal Flex Dot Line,155,159 Vertical Extend Line,160,164 Vertical Shrink Line,165,169 Vertical Flex Line,170,174 Vertical Flex Dot Line,175,179 Ladder Line 1,180,184 Ladder Line 2,185,189 Ladder Line 3,190,194 Ladder Line 4,195,199 Tetragon 1,200,204 Tetragon 2,205,209 Pentagon 1,210,214 Pentagon 2,215,219 Pentagon 3,220,224 Pentagon 4,225,229 Wave Line,230,234 Wave Dot Line,235,239 Spirality line,240,244 Many Dot 1,245,249 Many Dot 2,250,254 Square Dot,255,255 
+
+Channel = Pan
+ Pan,0,255 
+
+Channel = Tilt
+ Tilt,0,255 
+
+Channel = pattern_speed
+ Speed,0,255 
+
+Channel = animation_speed
+ Dynamic Speed,0,255 
+
+Channel = uzoom
+ Static Pattern Size,0,255 
+

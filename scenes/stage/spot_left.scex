@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1702680889" name="Right Inner Wash Par" model="MegaHexPar(8ch)"/>
+    <Fixture id="1702680890" name="Right Outer Wash Par" model="MegaHexPar(8ch)"/>
+    <Fixture id="1702676067" name="Left Spot Par" model="MegaHexPar(8ch)"/>
+    <Fixture id="1702676068" name="Left Wash Par" model="MegaHexPar(8ch)"/>
+    <Fixture id="1702679854" name="StaggFlatPar4(18ch)" model="StaggFlatPar4(18ch)"/>
+  </Fixtures>
+  <Steps>
+    <Step length="500">
+      <Fixture id="1702680889">
+        <Channel index="3" name="white" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1702680890">
+        <Channel index="3" name="white" value="0" fade="1"/>
+      </Fixture>
+      <Fixture id="1702676067">
+        <Channel index="3" name="white" value="111" fade="1"/>
+      </Fixture>
+      <Fixture id="1702676068">
+        <Channel index="3" name="white" value="59" fade="1"/>
+      </Fixture>
+      <Fixture id="1702679854">
+        <Channel index="5" name="white" value="0" fade="1"/>
+        <Channel index="9" name="white#2" value="0" fade="1"/>
+        <Channel index="13" name="white#3" value="99" fade="1"/>
+        <Channel index="17" name="white#4" value="83" fade="1"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

@@ -1,0 +1,43 @@
+﻿ViewType = VIEW_TYPE_COLOR_CHANGER
+ViewPower = VIEW_POWER_LED30W
+ViewAnglePan = 120
+ViewAngleTilt = 90
+ViewAngleBeam = 50
+ViewReversePan = FALSE
+ViewReverseTilt = FALSE
+ViewReverseDimmer = FALSE
+ViewReverseIris = FALSE
+ViewColor = 16777215
+3DViewShape = archi_1(8u)
+2DViewImage = briteq/LDP-COBWASH_60TC.png
+
+Channel = dimmer
+ dimmer,0,255 
+
+Channel = red
+ Min Max,0,255 
+
+Channel = green
+ Min Max,0,255 
+
+Channel = blue
+ Min Max,0,255 
+
+Channel = white
+ Min Max,0,255 
+
+Channel = amber
+ Min Max,0,255 
+
+Channel = uv
+ Min Max,0,255 
+
+Channel = strobe_or_speed
+ no_function,0,0 pulse_strobe,1,255 
+
+Channel = flash_color_macro_sound
+ Off,0,50 Jump,51,100 Fade,101,150 Pulse,151,200 Sound 1,201,220 Sound 2,221,240 Sound 3,241,255 
+
+Channel = flash_macro_speed
+ Slow Fast,0,255 
+

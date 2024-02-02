@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1702681452" name="Cubix 2" model="Cubix 2"/>
+    <Fixture id="1702681224" name="Back Left" model="RockvilleBestPar60"/>
+    <Fixture id="1702681761" name="Back Right" model="RockvilleBestPar60"/>
+  </Fixtures>
+  <Steps>
+    <Step length="500">
+      <Fixture id="1702681452">
+        <Channel index="5" name="shutter#2" value="247"/>
+      </Fixture>
+      <Fixture id="1702681224">
+        <Channel index="8" name="flash_color_macro_sound" value="235"/>
+      </Fixture>
+      <Fixture id="1702681761">
+        <Channel index="8" name="flash_color_macro_sound" value="236"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

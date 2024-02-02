@@ -1,0 +1,167 @@
+﻿
+[Params]
+PanTiltShift = 0.0
+ExplodePanTilt = 0
+GroupRGB = 1
+FanPanOffset = 0
+FanTiltOffset = 0
+[Fixture_0]
+ID = 1616437932
+Name = rockville wedge par #5
+DMX = 180
+Channels = dimmer,red,green,blue,white,amber,uv,strobe_dimmer,color_macro mode,color_macro_speed
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_1]
+ID = 1616437937
+Name = rockville wedge par #10
+DMX = 230
+Channels = dimmer,red,green,blue,white,amber,uv,strobe_dimmer,color_macro mode,color_macro_speed
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_2]
+ID = 1616437942
+Name = rockville wedge par #15
+DMX = 280
+Channels = dimmer,red,green,blue,white,amber,uv,strobe_dimmer,color_macro mode,color_macro_speed
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_3]
+ID = 1616437947
+Name = rockville wedge par #20
+DMX = 330
+Channels = dimmer,red,green,blue,white,amber,uv,strobe_dimmer,color_macro mode,color_macro_speed
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_4]
+ID = 1616437948
+Name = rockville wedge par #21
+DMX = 340
+Channels = dimmer,red,green,blue,white,amber,uv,strobe_dimmer,color_macro mode,color_macro_speed
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_5]
+ID = 1616437957
+Name = rockville wedge par #30
+DMX = 430
+Channels = dimmer,red,green,blue,white,amber,uv,strobe_dimmer,color_macro mode,color_macro_speed
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_6]
+ID = 1616440029
+Name = Rockville Par 50 white #14 #2 #2
+DMX = 450
+Channels = dimmer,red,green,blue,white,amber,uv,strobe_dimmer,color_macro mode,color_macro_speed
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[Fixture_7]
+ID = 1617120304
+Name = rockville wedge par #30 #2
+DMX = 474
+Channels = dimmer,red,green,blue,white,amber,uv,strobe_dimmer,color_macro mode,color_macro_speed
+ReversePan = 0
+ReverseTilt = 0
+OffsetPan = 0
+OffsetTilt = 0
+ZoomPan = 0
+ZoomTilt = 0
+ExplodeIndex = 0
+[dimmer]
+Selected = 1
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[RGB]
+Selected = 1
+CurveName = Default Curve
+Transition = 2
+Duration = 80
+Shift = 12.6
+Point_0 = 38121,38829
+Point_1 = 51400,28894
+[white]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[amber]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[uv]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[strobe_dimmer]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[color_macro mode]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535
+[color_macro_speed]
+Selected = 0
+CurveName = Default Curve
+Transition = 0
+Duration = 50
+Shift = 0.0
+Point_0 = 0,65535
+Point_1 = 65535,65535

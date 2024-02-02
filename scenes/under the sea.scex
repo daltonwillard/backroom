@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1616435293" name="Rockville Par 50 white #13" model="Rockville Par 50 white"/>
+    <Fixture id="1616435294" name="Rockville Par 50 white #14" model="Rockville Par 50 white"/>
+    <Fixture id="1616437928" name="rockville wedge par" model="rockville wedge par"/>
+    <Fixture id="1616437929" name="rockville wedge par #2" model="rockville wedge par"/>
+    <Fixture id="1616437930" name="rockville wedge par #3" model="rockville wedge par"/>
+    <Fixture id="1616437931" name="rockville wedge par #4" model="rockville wedge par"/>
+    <Fixture id="1616437933" name="rockville wedge par #6" model="rockville wedge par"/>
+    <Fixture id="1616437934" name="rockville wedge par #7" model="rockville wedge par"/>
+    <Fixture id="1616437935" name="rockville wedge par #8" model="rockville wedge par"/>
+    <Fixture id="1616437936" name="rockville wedge par #9" model="rockville wedge par"/>
+    <Fixture id="1616437938" name="rockville wedge par #11" model="rockville wedge par"/>
+    <Fixture id="1616437939" name="rockville wedge par #12" model="rockville wedge par"/>
+    <Fixture id="1616440029" name="Rockville Par 50 white #14 #2 #2" model="Rockville Par 50 white"/>
+    <Fixture id="1616437940" name="rockville wedge par #13" model="rockville wedge par"/>
+    <Fixture id="1616437941" name="rockville wedge par #14" model="rockville wedge par"/>
+    <Fixture id="1616437943" name="rockville wedge par #16" model="rockville wedge par"/>
+    <Fixture id="1616437944" name="rockville wedge par #17" model="rockville wedge par"/>
+    <Fixture id="1616437945" name="rockville wedge par #18" model="rockville wedge par"/>
+    <Fixture id="1616437946" name="rockville wedge par #19" model="rockville wedge par"/>
+    <Fixture id="1616437949" name="rockville wedge par #22" model="rockville wedge par"/>
+    <Fixture id="1616437950" name="rockville wedge par #23" model="rockville wedge par"/>
+    <Fixture id="1616437951" name="rockville wedge par #24" model="rockville wedge par"/>
+    <Fixture id="1616437952" name="rockville wedge par #25" model="rockville wedge par"/>
+    <Fixture id="1616437953" name="rockville wedge par #26" model="rockville wedge par"/>
+    <Fixture id="1616437954" name="rockville wedge par #27" model="rockville wedge par"/>
+    <Fixture id="1616437955" name="rockville wedge par #28" model="rockville wedge par"/>
+    <Fixture id="1616437956" name="rockville wedge par #29" model="rockville wedge par"/>
+    <Fixture id="1616439986" name="Rockville Par 50 white #14 #2" model="Rockville Par 50 white"/>
+    <Fixture id="1616590977" name="MegaBar50rgb(7ch)" model="MegaBar50rgb(7ch)"/>
+    <Fixture id="1616590978" name="MegaBar50rgb(7ch) #2" model="MegaBar50rgb(7ch)"/>
+    <Fixture id="1616435281" name="Rockville Par 50 white" model="Rockville Par 50 white"/>
+    <Fixture id="1616435282" name="Rockville Par 50 white #2" model="Rockville Par 50 white"/>
+    <Fixture id="1616435283" name="Rockville Par 50 white #3" model="Rockville Par 50 white"/>
+    <Fixture id="1616435284" name="Rockville Par 50 white #4" model="Rockville Par 50 white"/>
+    <Fixture id="1616435285" name="Rockville Par 50 white #5" model="Rockville Par 50 white"/>
+    <Fixture id="1616435286" name="Rockville Par 50 white #6" model="Rockville Par 50 white"/>
+    <Fixture id="1616435287" name="Rockville Par 50 white #7" model="Rockville Par 50 white"/>
+    <Fixture id="1616435288" name="Rockville Par 50 white #8" model="Rockville Par 50 white"/>
+    <Fixture id="1616435289" name="Rockville Par 50 white #9" model="Rockville Par 50 white"/>
+    <Fixture id="1616435290" name="Rockville Par 50 white #10" model="Rockville Par 50 white"/>
+    <Fixture id="1616435291" name="Rockville Par 50 white #11" model="Rockville Par 50 white"/>
+    <Fixture id="1616435292" name="Rockville Par 50 white #12" model="Rockville Par 50 white"/>
+  </Fixtures>
+  <Steps>
+    <Step length="500">
+      <Fixture id="1616435293">
+        <Channel index="0" name="dimmer" value="219" fade="1"/>
+        <Channel index="2" name="green" value="0" fade="1"/>
+        <Channel index="3" name="blue" value="253" fade="1"/>
+      </Fixture>
+      <Fixture id="1616435294">
+        <Channel index="0" name="dimmer" value="72" fade="1"/>
+        <Channel index="2" name="green" value="108" fade="1"/>
+        <Channel index="3" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1616437928">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
+        <Channel index="1" name="red" value="0" fade="1"/>
+        <Channel index="2" name="green" value="172" fade="1"/>
+        <Channel index="3" name="blue" value="254" fade="1"/>
+      </Fixture>
+      <Fixture id="1616437929">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
+        <Channel index="1" name="red" value="0" fade="1"/>
+        <Channel index="2" name="green" value="172" fade="1"/>
+        <Channel index="3" name="blue" value="254" fade="1"/>
+      </Fixture>
+      <Fixture id="1616437930">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
+        <Channel index="1" name="red" value="0" fade="1"/>
+        <Channel index="2" name="green" value="87" fade="1"/>
+        <Channel index="3" name="blue" value="255" fade="1"/>
+        <Channel index="5" name="amber" value="0" fade="1"/>
+        <Channel index="6" name="uv" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1616437931">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
+        <Channel index="1" name="red" value="0" fade="1"/>
+        <Channel index="2" name="green" value="87" fade="1"/>
+        <Channel index="3" name="blue" value="255" fade="1"/>
+        <Channel index="5" name="amber" value="0" fade="1"/>
+        <Channel index="6" name="uv" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1616437933">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
+        <Channel index="1" name="red" value="0" fade="1"/>
+        <Channel index="2" name="green" value="87" fade="1"/>
+        <Channel index="3" name="blue" value="255" fade="1"/>
+        <Channel index="5" name="amber" value="0" fade="1"/>
+        <Channel index="6" name="uv" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1616437934">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
+        <Channel index="1" name="red" value="0" fade="1"/>
+        <Channel index="2" name="green" value="172" fade="1"/>
+        <Channel index="3" name="blue" value="254" fade="1"/>
+      </Fixture>
+      <Fixture id="1616437935">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
+        <Channel index="1" name="red" value="0" fade="1"/>
+        <Channel index="2" name="green" value="172" fade="1"/>
+        <Channel index="3" name="blue" value="254" fade="1"/>
+      </Fixture>
+      <Fixture id="1616437936">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
+        <Channel index="1" name="red" value="0" fade="1"/>
+        <Channel index="2" name="green" value="87" fade="1"/>
+        <Channel index="3" name="blue" value="255" fade="1"/>
+        <Channel index="5" name="amber" value="0" fade="1"/>
+        <Channel index="6" name="uv" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1616437938">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
+        <Channel index="1" name="red" value="0" fade="1"/>
+        <Channel index="2" name="green" value="172" fade="1"/>
+        <Channel index="3" name="blue" value="254" fade="1"/>
+      </Fixture>
+      <Fixture id="1616440029">
+        <Channel index="0" name="dimmer" value="219" fade="1"/>
+        <Channel index="2" name="green" value="0" fade="1"/>
+        <Channel index="3" name="blue" value="253" fade="1"/>
+      </Fixture>
+      <Fixture id="1616437939">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
+        <Channel index="1" name="red" value="0" fade="1"/>
+        <Channel index="2" name="green" value="172" fade="1"/>
+        <Channel index="3" name="blue" value="254" fade="1"/>
+      </Fixture>
+      <Fixture id="1616437940">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
+        <Channel index="1" name="red" value="0" fade="1"/>
+        <Channel index="2" name="green" value="87" fade="1"/>
+        <Channel index="3" name="blue" value="255" fade="1"/>
+        <Channel index="5" name="amber" value="0" fade="1"/>
+        <Channel index="6" name="uv" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1616437941">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
+        <Channel index="1" name="red" value="0" fade="1"/>
+        <Channel index="2" name="green" value="87" fade="1"/>
+        <Channel index="3" name="blue" value="255" fade="1"/>
+        <Channel index="5" name="amber" value="0" fade="1"/>
+        <Channel index="6" name="uv" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1616437943">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
+        <Channel index="1" name="red" value="0" fade="1"/>
+        <Channel index="2" name="green" value="172" fade="1"/>
+        <Channel index="3" name="blue" value="254" fade="1"/>
+      </Fixture>
+      <Fixture id="1616437944">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
+        <Channel index="1" name="red" value="0" fade="1"/>
+        <Channel index="2" name="green" value="172" fade="1"/>
+        <Channel index="3" name="blue" value="254" fade="1"/>
+      </Fixture>
+      <Fixture id="1616437945">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
+        <Channel index="1" name="red" value="0" fade="1"/>
+        <Channel index="2" name="green" value="87" fade="1"/>
+        <Channel index="3" name="blue" value="255" fade="1"/>
+        <Channel index="5" name="amber" value="0" fade="1"/>
+        <Channel index="6" name="uv" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1616437946">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
+        <Channel index="1" name="red" value="0" fade="1"/>
+        <Channel index="2" name="green" value="87" fade="1"/>
+        <Channel index="3" name="blue" value="255" fade="1"/>
+        <Channel index="5" name="amber" value="0" fade="1"/>
+        <Channel index="6" name="uv" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1616437949">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
+        <Channel index="1" name="red" value="0" fade="1"/>
+        <Channel index="2" name="green" value="172" fade="1"/>
+        <Channel index="3" name="blue" value="254" fade="1"/>
+      </Fixture>
+      <Fixture id="1616437950">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
+        <Channel index="1" name="red" value="0" fade="1"/>
+        <Channel index="2" name="green" value="87" fade="1"/>
+        <Channel index="3" name="blue" value="255" fade="1"/>
+        <Channel index="5" name="amber" value="0" fade="1"/>
+        <Channel index="6" name="uv" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1616437951">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
+        <Channel index="1" name="red" value="0" fade="1"/>
+        <Channel index="2" name="green" value="172" fade="1"/>
+        <Channel index="3" name="blue" value="254" fade="1"/>
+      </Fixture>
+      <Fixture id="1616437952">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
+        <Channel index="1" name="red" value="0" fade="1"/>
+        <Channel index="2" name="green" value="87" fade="1"/>
+        <Channel index="3" name="blue" value="255" fade="1"/>
+        <Channel index="5" name="amber" value="0" fade="1"/>
+        <Channel index="6" name="uv" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1616437953">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
+        <Channel index="1" name="red" value="0" fade="1"/>
+        <Channel index="2" name="green" value="172" fade="1"/>
+        <Channel index="3" name="blue" value="254" fade="1"/>
+      </Fixture>
+      <Fixture id="1616437954">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
+        <Channel index="1" name="red" value="0" fade="1"/>
+        <Channel index="2" name="green" value="172" fade="1"/>
+        <Channel index="3" name="blue" value="254" fade="1"/>
+      </Fixture>
+      <Fixture id="1616437955">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
+        <Channel index="1" name="red" value="0" fade="1"/>
+        <Channel index="2" name="green" value="87" fade="1"/>
+        <Channel index="3" name="blue" value="255" fade="1"/>
+        <Channel index="5" name="amber" value="0" fade="1"/>
+        <Channel index="6" name="uv" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1616437956">
+        <Channel index="0" name="dimmer" value="255" fade="1"/>
+        <Channel index="1" name="red" value="0" fade="1"/>
+        <Channel index="2" name="green" value="87" fade="1"/>
+        <Channel index="3" name="blue" value="255" fade="1"/>
+        <Channel index="5" name="amber" value="0" fade="1"/>
+        <Channel index="6" name="uv" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1616439986">
+        <Channel index="0" name="dimmer" value="219" fade="1"/>
+        <Channel index="2" name="green" value="0" fade="1"/>
+        <Channel index="3" name="blue" value="253" fade="1"/>
+      </Fixture>
+      <Fixture id="1616590977">
+        <Channel index="1" name="green" value="191" fade="1"/>
+        <Channel index="2" name="blue" value="255" fade="1"/>
+        <Channel index="6" name="dimmer" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1616590978">
+        <Channel index="1" name="green" value="191" fade="1"/>
+        <Channel index="2" name="blue" value="255" fade="1"/>
+        <Channel index="6" name="dimmer" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1616435281">
+        <Channel index="0" name="dimmer" value="72" fade="1"/>
+        <Channel index="2" name="green" value="108" fade="1"/>
+        <Channel index="3" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1616435282">
+        <Channel index="0" name="dimmer" value="72" fade="1"/>
+        <Channel index="2" name="green" value="108" fade="1"/>
+        <Channel index="3" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1616435283">
+        <Channel index="0" name="dimmer" value="219" fade="1"/>
+        <Channel index="2" name="green" value="0" fade="1"/>
+        <Channel index="3" name="blue" value="253" fade="1"/>
+      </Fixture>
+      <Fixture id="1616435284">
+        <Channel index="0" name="dimmer" value="72" fade="1"/>
+        <Channel index="2" name="green" value="108" fade="1"/>
+        <Channel index="3" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1616435285">
+        <Channel index="0" name="dimmer" value="219" fade="1"/>
+        <Channel index="2" name="green" value="0" fade="1"/>
+        <Channel index="3" name="blue" value="253" fade="1"/>
+      </Fixture>
+      <Fixture id="1616435286">
+        <Channel index="0" name="dimmer" value="72" fade="1"/>
+        <Channel index="2" name="green" value="108" fade="1"/>
+        <Channel index="3" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1616435287">
+        <Channel index="0" name="dimmer" value="219" fade="1"/>
+        <Channel index="2" name="green" value="0" fade="1"/>
+        <Channel index="3" name="blue" value="253" fade="1"/>
+      </Fixture>
+      <Fixture id="1616435288">
+        <Channel index="0" name="dimmer" value="72" fade="1"/>
+        <Channel index="2" name="green" value="108" fade="1"/>
+        <Channel index="3" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1616435289">
+        <Channel index="0" name="dimmer" value="219" fade="1"/>
+        <Channel index="2" name="green" value="0" fade="1"/>
+        <Channel index="3" name="blue" value="253" fade="1"/>
+      </Fixture>
+      <Fixture id="1616435290">
+        <Channel index="0" name="dimmer" value="72" fade="1"/>
+        <Channel index="2" name="green" value="108" fade="1"/>
+        <Channel index="3" name="blue" value="255" fade="1"/>
+      </Fixture>
+      <Fixture id="1616435291">
+        <Channel index="0" name="dimmer" value="219" fade="1"/>
+        <Channel index="2" name="green" value="0" fade="1"/>
+        <Channel index="3" name="blue" value="253" fade="1"/>
+      </Fixture>
+      <Fixture id="1616435292">
+        <Channel index="0" name="dimmer" value="72" fade="1"/>
+        <Channel index="2" name="green" value="108" fade="1"/>
+        <Channel index="3" name="blue" value="255" fade="1"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

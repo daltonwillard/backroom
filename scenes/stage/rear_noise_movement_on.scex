@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1702681452" name="Cubix 2" model="Cubix 2"/>
+    <Fixture id="1702681752" name="Circus 2 IRC" model="Circus 2 IRC"/>
+  </Fixtures>
+  <Steps>
+    <Step length="500">
+      <Fixture id="1702681452">
+        <Channel index="0" name="color" value="240"/>
+        <Channel index="3" name="Auto Programs" value="206"/>
+        <Channel index="4" name="Auto Program Speed" value="240"/>
+      </Fixture>
+      <Fixture id="1702681752">
+        <Channel index="0" name="color_macro" value="254"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

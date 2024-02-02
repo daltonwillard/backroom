@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1706027900" name="Temu Laser" model="Temu Laser"/>
+  </Fixtures>
+  <Steps>
+    <Step length="500">
+      <Fixture id="1706027900">
+        <Channel index="0" name="Mode" value="207"/>
+        <Channel index="1" name="pattern" value="0"/>
+        <Channel index="2" name="Pan" value="0"/>
+        <Channel index="3" name="Tilt" value="0"/>
+        <Channel index="4" name="pattern_speed" value="0"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

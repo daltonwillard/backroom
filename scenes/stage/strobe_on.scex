@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1702681752" name="Circus 2 IRC" model="Circus 2 IRC"/>
+  </Fixtures>
+  <Steps>
+    <Step length="500">
+      <Fixture id="1702681752">
+        <Channel index="3" name="shutter#2" value="244"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>

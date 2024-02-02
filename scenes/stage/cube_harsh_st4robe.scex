@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scene>
+  <Fixtures>
+    <Fixture id="1702678810" name="CenterBox1" model="RockvilleBestPar60"/>
+    <Fixture id="1702757094" name="LeftBox2" model="RockvilleBestPar60"/>
+    <Fixture id="1702680396" name="RightBox1" model="RockvilleBestPar60"/>
+    <Fixture id="1702676734" name="LeftBox1" model="RockvilleBestPar60"/>
+    <Fixture id="1702759245" name="CenterBox2" model="RockvilleBestPar60"/>
+    <Fixture id="1702759808" name="RightBox2" model="RockvilleBestPar60"/>
+  </Fixtures>
+  <Steps>
+    <Step length="500">
+      <Fixture id="1702678810">
+        <Channel index="8" name="flash_color_macro_sound" value="225"/>
+      </Fixture>
+      <Fixture id="1702757094">
+        <Channel index="8" name="flash_color_macro_sound" value="225"/>
+      </Fixture>
+      <Fixture id="1702680396">
+        <Channel index="8" name="flash_color_macro_sound" value="227"/>
+      </Fixture>
+      <Fixture id="1702676734">
+        <Channel index="8" name="flash_color_macro_sound" value="236"/>
+      </Fixture>
+      <Fixture id="1702759245">
+        <Channel index="8" name="flash_color_macro_sound" value="232"/>
+      </Fixture>
+      <Fixture id="1702759808">
+        <Channel index="8" name="flash_color_macro_sound" value="228"/>
+      </Fixture>
+    </Step>
+  </Steps>
+</Scene>
